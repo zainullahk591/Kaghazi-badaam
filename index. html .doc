@@ -1,0 +1,87 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &lt;meta charset="UTF-8" /&gt;</p>
+<p>&nbsp; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;</p>
+<p>&nbsp; &lt;title&gt;Khagazi Badam Store&lt;/title&gt;</p>
+<p>&nbsp; &lt;style&gt;</p>
+<p>&nbsp; &nbsp; body {</p>
+<p>&nbsp; &nbsp; &nbsp; margin: 0;</p>
+<p>&nbsp; &nbsp; &nbsp; font-family: Arial, sans-serif;</p>
+<p>&nbsp; &nbsp; &nbsp; background-color: #fafafa;</p>
+<p>&nbsp; &nbsp; &nbsp; color: #333;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; header {</p>
+<p>&nbsp; &nbsp; &nbsp; background-color: #fff;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; box-shadow: 0 2px 4px rgba(0,0,0,0.1);</p>
+<p>&nbsp; &nbsp; &nbsp; display: flex;</p>
+<p>&nbsp; &nbsp; &nbsp; justify-content: space-between;</p>
+<p>&nbsp; &nbsp; &nbsp; align-items: center;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; nav a {</p>
+<p>&nbsp; &nbsp; &nbsp; margin: 0 15px;</p>
+<p>&nbsp; &nbsp; &nbsp; text-decoration: none;</p>
+<p>&nbsp; &nbsp; &nbsp; color: #333;</p>
+<p>&nbsp; &nbsp; &nbsp; font-weight: bold;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .hero {</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 60px 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; text-align: center;</p>
+<p>&nbsp; &nbsp; &nbsp; background: #f2f2f2;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .hero h1 {</p>
+<p>&nbsp; &nbsp; &nbsp; font-size: 2.5em;</p>
+<p>&nbsp; &nbsp; &nbsp; margin-bottom: 10px;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .hero p {</p>
+<p>&nbsp; &nbsp; &nbsp; font-size: 1.2em;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .services, .about, .contact {</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 40px 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; max-width: 1000px;</p>
+<p>&nbsp; &nbsp; &nbsp; margin: auto;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .services img, .about img {</p>
+<p>&nbsp; &nbsp; &nbsp; width: 100%;</p>
+<p>&nbsp; &nbsp; &nbsp; max-width: 400px;</p>
+<p>&nbsp; &nbsp; &nbsp; border-radius: 10px;</p>
+<p>&nbsp; &nbsp; &nbsp; margin-top: 20px;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; footer {</p>
+<p>&nbsp; &nbsp; &nbsp; background-color: #f2f2f2;</p>
+<p>&nbsp; &nbsp; &nbsp; text-align: center;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; margin-top: 40px;</p>
+<p>&nbsp; &nbsp; &nbsp; font-size: 0.9em;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &lt;/style&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &lt;header&gt;</p>
+<p>&nbsp; &nbsp; &lt;div&gt;&lt;strong&gt;Khagazi Badam&lt;/strong&gt;&lt;/div&gt;</p>
+<p>&nbsp; &nbsp; &lt;nav&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;a href="#home"&gt;Home&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;a href="#about"&gt;About&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;a href="#services"&gt;Services&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;a href="#contact"&gt;Contact&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &lt;/nav&gt;</p>
+<p>&nbsp; &lt;/header&gt; &lt;section class="hero" id="home"&gt;</p>
+<p>&nbsp; &nbsp; &lt;h1&gt;Premium Khagazi Badam&lt;/h1&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;Organic, crunchy, and delivered to your doorstep.&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &lt;img src="https://example.com/dry-fruits.jpg" alt="Dry fruits" /&gt;</p>
+<p>&nbsp; &lt;/section&gt; &lt;section class="about" id="about"&gt;</p>
+<p>&nbsp; &nbsp; &lt;h2&gt;About Us&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;We specialize in high-quality Khagazi Badam sourced directly from the best farms in Balochistan. Our mission is to deliver natural, fresh almonds to your table.&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &lt;img src="https://example.com/almonds.jpg" alt="Almonds" /&gt;</p>
+<p>&nbsp; &lt;/section&gt; &lt;section class="services" id="services"&gt;</p>
+<p>&nbsp; &nbsp; &lt;h2&gt;Our Services&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;- Retail &amp; Bulk Orders&lt;br&gt;- Nationwide Delivery&lt;br&gt;- Gift Packing Available&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &lt;img src="https://example.com/badam-pack.jpg" alt="Packaged Almonds" /&gt;</p>
+<p>&nbsp; &lt;/section&gt; &lt;section class="contact" id="contact"&gt;</p>
+<p>&nbsp; &nbsp; &lt;h2&gt;Contact Us&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;Email: info@khagazibadam.com&lt;br&gt;Phone: +92-300-1234567&lt;br&gt;Address: Loralai, Balochistan, Pakistan&lt;/p&gt;</p>
+<p>&nbsp; &lt;/section&gt; &lt;footer&gt;</p>
+<p>&nbsp; &nbsp; &amp;copy; 2025 Khagazi Badam. All rights reserved.</p>
+<p>&nbsp; &lt;/footer&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p></body></html>
