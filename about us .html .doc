@@ -1,0 +1,11 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>&lt;!DOCTYPE html&gt;</p>
+<p>&lt;html&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &nbsp; &lt;title&gt;My GitHub Website&lt;/title&gt;</p>
+<p>&nbsp; &nbsp; &lt;link rel="stylesheet" href="style.css"&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &nbsp; &lt;h1&gt;Welcome to My Site!&lt;/h1&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;This is hosted for free on GitHub Pages.&lt;/p&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p></body></html>
